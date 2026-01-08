@@ -23,4 +23,4 @@ class MyClass {
 }
 ```
 # output
-![output of my class]
+![output of my class](MyClass.png)
